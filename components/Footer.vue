@@ -9,7 +9,7 @@
       <li>
         <a
           target="_new"
-          href="https://dribbble.com/apertureless">Dribble</a>
+          href="https://dribbble.com/apertureless">Dribbble</a>
       </li>
       <li>
         <a
