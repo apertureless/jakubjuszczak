@@ -24,6 +24,11 @@
             Contact
           </nuxt-link>
         </li>
+        <li>
+          <a
+            href="https://blog.jakubjuszczak.de"
+            target="_blank">Blog</a>
+        </li>
       </ul>
     </nav>
     <h2
